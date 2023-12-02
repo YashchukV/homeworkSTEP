@@ -1,0 +1,3 @@
+﻿  Clab3.cpp
+C:\Users\Vitalino\Desktop\Step\С++\Clab3\Clab3\Clab3.cpp(88,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Clab3.vcxproj -> C:\Users\Vitalino\Desktop\Step\С++\Clab3\x64\Debug\Clab3.exe
